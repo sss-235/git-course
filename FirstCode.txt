@@ -2,3 +2,5 @@ HelloWorld!! @
 Take Input from User
 Add the values
 Submit data to the database
+
+Adding new avatar into this project
