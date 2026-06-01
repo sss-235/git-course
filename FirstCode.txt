@@ -1,2 +1,4 @@
-HelloWorld!! @@
-
+HelloWorld!! @
+Take Input from User
+Add the values
+Submit data to the database
